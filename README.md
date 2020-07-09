@@ -1,9 +1,9 @@
 Pea Soup is a Discord bot which servers as a connection between Blackwake servers and Discord over FTP.
 
-## This code is very much not complete
+### This code is very much not complete
 Due to the state of Blackwake and me no longer running a Blackwake server, I never ended up finishing this bot. If this gains some interest or Blackwake pops off again then I may finish it up.
 
-### Things To Do
+## Things To Do
 If I ever finish this:
 - Connect to my Blackwake leaderboard script so the bot can display the leaderboard.
 - Setup mySQL connection to store server connection information and other info.
